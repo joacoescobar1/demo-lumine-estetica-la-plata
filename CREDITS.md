@@ -1,16 +1,6 @@
-# Créditos de fotos — Lumine Estética Integral (demo)
+# Créditos — Lumine Estética Integral (demo de Nodo Ventas)
 
-Fotos de [Unsplash](https://unsplash.com), bajo la [Licencia Unsplash](https://unsplash.com/license) (uso comercial gratuito, sin atribución obligatoria). Se recortaron, redimensionaron y convirtieron a WebP para la demo.
+Logo y fotos de la recepción y de tratamientos: ficha pública de Lumine en [esteticas.com.ar](https://www.esteticas.com.ar/centros/lumine-estetica-integral).
+Resto de fotos: [Unsplash](https://unsplash.com), Licencia Unsplash (ver tabla original del sitio base).
 
-| Archivo | Foto original (Unsplash) |
-|---|---|
-| `img/hero.webp` | https://unsplash.com/photos/woman-in-black-tank-top-raising-her-hands-OKvKPn3K9J0 |
-| `img/clase-zumba.webp` | https://unsplash.com/photos/group-of-women-running-on-brown-wooden-floor-Vdx-2lsuhm0 |
-| `img/clase-latino.webp` | https://unsplash.com/photos/man-and-woman-dancing-nEq-FWPTDag |
-| `img/clase-stretch.webp` | https://unsplash.com/photos/woman-in-white-tank-top-and-pink-leggings-doing-yoga-YJdCZba0TYE |
-| `img/clase-hiit.webp` | https://unsplash.com/photos/woman-in-purple-tank-top-and-black-shorts-doing-yoga-icxORkp1Yv0 |
-| `img/clase-coreo.webp` | https://unsplash.com/photos/people-dancing-in-colorful-studio-1N4SyvFAjhE |
-| `img/clase-funcional.webp` | https://unsplash.com/photos/people-performing-box-jumps-workout-wy_L8W0zcpI |
-| `img/grupo-hiphop.webp` | https://unsplash.com/photos/womens-black-shirt-lot-GRDpPpKczdY |
-
-Logo y marca Nodo Ventas: diseño propio. Tipografías: Google Fonts (OFL).
+Esta página es una demo de Nodo Ventas. No es el sitio oficial de Lumine Estética Integral. Horarios y precios son de ejemplo.
